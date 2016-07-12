@@ -1,0 +1,16 @@
+<style>
+    *{margin: 0; padding: 0}
+    body{font-family:'Microsoft YaHei';}
+    .menu{margin:20px auto 0; width:550px; text-align: center;}
+    .menu h4{font-weight:normal; line-height:50px;}
+    #xh{margin: auto 30px;}
+    #sx{margin: auto 30px;}
+    #tab{width:550px; height:380px;border:10px solid darkgray; position:relative; margin:0 auto;}
+    #tab a{width:40px; height:40px; background: black; color:white; position:absolute; top:160px; font-size: 28px;text-align:center;opacity:0.6; filter:alpha(opacity=60);}
+    #tab a:hover{opacity:0.8; filter:alpha(opacity=80);}
+    #spanID{width:550px;height:20px; line-height:20px;background:black; color: white; position:absolute; text-align:center; opacity:0.8; filter:alpha(opacity=80);}
+    #prev{left:10px; cursor:pointer;}
+    #next{right:10px; cursor:pointer;}
+    #pId{width:550px;height:30px; line-height:30px; background:black; text-align:center;position:absolute; bottom:0px; color:white;opacity:0.8; filter:alpha(opacity=80);}
+    #imgID{width:550px; height:380px;}
+</style>
